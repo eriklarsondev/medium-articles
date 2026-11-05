@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors and markdown tools
+.vscode/
+.idea/
+.obsidian/
+*.swp
+*~
+
+# Word/Pages drafts and lock files — this repo tracks markdown, not binaries
+~$*
+*.docx
+*.pages
