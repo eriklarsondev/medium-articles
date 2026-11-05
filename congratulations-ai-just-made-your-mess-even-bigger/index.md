@@ -1,6 +1,6 @@
 ---
 title: "Congratulations, AI Just Made Your Mess Even Bigger"
-createdAt: 2026-11-04
+createdAt: 2026-11-05
 ---
 
 There's no denying that AI has changed the way we write software. What used to take hours can sometimes be accomplished in minutes. Entire features, API endpoints, components, tests, and even application scaffolding can be generated with a few well-written prompts.
